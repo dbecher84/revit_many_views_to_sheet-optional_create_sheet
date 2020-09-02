@@ -30,6 +30,8 @@
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
+  <PropertyGroup />
+  <PropertyGroup />
   <ItemGroup>
     <Reference Include="RevitAPI">
       <HintPath>..\..\..\..\..\..\..\Program Files\Autodesk\Revit 2019\RevitAPI.dll</HintPath>
@@ -51,7 +53,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Command.cs" />
+    <Compile Include="elevationAdd.cs" />
     <Compile Include="createSheet.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -92,9 +94,12 @@
       <DependentUpon>viewsToSheet.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
+  <ItemGroup>
+    <None Include="elevations.addin" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <PropertyGroup>
     <PostBuildEvent>copy "$(ProjectDir)bin\debug\*.dll" "C:\ProgramData\Autodesk\Revit\Addins\2019"
-copy "$(ProjectDir)bin\debug\*.addin" "C:\ProgramData\Autodesk\Revit\Addins\2019"</PostBuildEvent>
+copy "$(ProjectDir)\*.addin" "C:\ProgramData\Autodesk\Revit\Addins\2019"</PostBuildEvent>
   </PropertyGroup>
 </Project>
