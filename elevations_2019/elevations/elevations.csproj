@@ -63,11 +63,11 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
-    <Compile Include="titleblockform.cs">
+    <Compile Include="titleBlockForm.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="titleblockform.Designer.cs">
-      <DependentUpon>titleblockform.cs</DependentUpon>
+    <Compile Include="titleBlockForm.Designer.cs">
+      <DependentUpon>titleBlockForm.cs</DependentUpon>
     </Compile>
     <Compile Include="viewsToSheet.cs">
       <SubType>Form</SubType>
@@ -85,8 +85,8 @@
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
     </EmbeddedResource>
-    <EmbeddedResource Include="titleblockform.resx">
-      <DependentUpon>titleblockform.cs</DependentUpon>
+    <EmbeddedResource Include="titleBlockForm.resx">
+      <DependentUpon>titleBlockForm.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="viewsToSheet.resx">
       <DependentUpon>viewsToSheet.cs</DependentUpon>
