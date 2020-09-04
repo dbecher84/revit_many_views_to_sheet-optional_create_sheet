@@ -99,7 +99,7 @@
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <PropertyGroup>
-    <PostBuildEvent>copy "$(ProjectDir)bin\debug\*.dll" "C:\ProgramData\Autodesk\Revit\Addins\2019"
-copy "$(ProjectDir)\*.addin" "C:\ProgramData\Autodesk\Revit\Addins\2019"</PostBuildEvent>
+    <PostBuildEvent>copy "$(ProjectDir)\*.addin" "C:\Users\Derek.Becher\AppData\Roaming\Autodesk\Revit\Addins\2019\DBToolBar"
+copy "$(ProjectDir)bin\debug\*.dll" "C:\Users\Derek.Becher\AppData\Roaming\Autodesk\Revit\Addins\2019\DBToolBar"</PostBuildEvent>
   </PropertyGroup>
 </Project>

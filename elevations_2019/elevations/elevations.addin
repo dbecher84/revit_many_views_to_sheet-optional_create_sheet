@@ -3,7 +3,7 @@
 	<AddIn Type="Command">
 		<Assembly>elevations.dll</Assembly>
 		<AddInId>239BD853-36E4-461f-9171-C5ACEDA4E723</AddInId>
-		<FullClassName>elevations.elevationAdd</FullClassName>
+		<FullClassName>elevationsToSheets.elevationAdd</FullClassName>
 		<Text>Create Room Elevations</Text>
     <VendorId>Becher</VendorId>
     <VendorDescription>Derek Becher, github: dbecher84</VendorDescription>
