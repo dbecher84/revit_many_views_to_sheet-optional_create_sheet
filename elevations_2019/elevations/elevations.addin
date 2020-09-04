@@ -5,7 +5,7 @@
 		<AddInId>239BD853-36E4-461f-9171-C5ACEDA4E723</AddInId>
 		<FullClassName>elevations.elevationAdd</FullClassName>
 		<Text>Create Room Elevations</Text>
-		<VendorId>ADSK</VendorId>
-		<VendorDescription>Autodesk, www.autodesk.com</VendorDescription>
+    <VendorId>Becher</VendorId>
+    <VendorDescription>Derek Becher, github: dbecher84</VendorDescription>
 	</AddIn>
 </RevitAddIns>
