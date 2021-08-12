@@ -31,3 +31,14 @@ C:\Users\Derek.Becher\Documents\GitHub\revit_many_views_to_sheet-optional_create
 C:\Users\Derek.Becher\Documents\GitHub\revit_many_views_to_sheet-optional_create_sheet\elevations_2020\elevations\obj\Debug\elevations.csproj.CoreCompileInputs.cache
 C:\Users\Derek.Becher\Documents\GitHub\revit_many_views_to_sheet-optional_create_sheet\elevations_2020\elevations\obj\Debug\elevations.dll
 C:\Users\Derek.Becher\Documents\GitHub\revit_many_views_to_sheet-optional_create_sheet\elevations_2020\elevations\obj\Debug\elevations.pdb
+C:\Users\dbecher\Documents\GitHub\revit_many_views_to_sheet-optional_create_sheet\elevations_2020\elevations\obj\Debug\elevations.csproj.AssemblyReference.cache
+C:\Users\dbecher\Documents\GitHub\revit_many_views_to_sheet-optional_create_sheet\elevations_2020\elevations\obj\Debug\sheetcreation.createSheet.resources
+C:\Users\dbecher\Documents\GitHub\revit_many_views_to_sheet-optional_create_sheet\elevations_2020\elevations\obj\Debug\elevations.Properties.Resources.resources
+C:\Users\dbecher\Documents\GitHub\revit_many_views_to_sheet-optional_create_sheet\elevations_2020\elevations\obj\Debug\elevations_tblocks.titleblockform.resources
+C:\Users\dbecher\Documents\GitHub\revit_many_views_to_sheet-optional_create_sheet\elevations_2020\elevations\obj\Debug\get_sheet.viewsToSheet.resources
+C:\Users\dbecher\Documents\GitHub\revit_many_views_to_sheet-optional_create_sheet\elevations_2020\elevations\obj\Debug\elevations.csproj.GenerateResource.cache
+C:\Users\dbecher\Documents\GitHub\revit_many_views_to_sheet-optional_create_sheet\elevations_2020\elevations\obj\Debug\elevations.csproj.CoreCompileInputs.cache
+C:\Users\dbecher\Documents\GitHub\revit_many_views_to_sheet-optional_create_sheet\elevations_2020\elevations\obj\Debug\elevations.dll
+C:\Users\dbecher\Documents\GitHub\revit_many_views_to_sheet-optional_create_sheet\elevations_2020\elevations\obj\Debug\elevations.pdb
+C:\Users\dbecher\Documents\GitHub\revit_many_views_to_sheet-optional_create_sheet\elevations_2020\elevations\bin\Debug\elevations.dll
+C:\Users\dbecher\Documents\GitHub\revit_many_views_to_sheet-optional_create_sheet\elevations_2020\elevations\bin\Debug\elevations.pdb

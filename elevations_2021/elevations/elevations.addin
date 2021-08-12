@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>elevations.dll</Assembly>
+		<AddInId>239BD853-36E4-461f-9171-C5ACEDA4E723</AddInId>
+		<FullClassName>elevationsToSheets.elevationAdd</FullClassName>
+		<Text>Create Room Elevations</Text>
+    <VendorId>Becher</VendorId>
+    <VendorDescription>Derek Becher, github: dbecher84</VendorDescription>
+	</AddIn>
+</RevitAddIns>
